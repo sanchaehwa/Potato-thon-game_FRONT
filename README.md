@@ -12,7 +12,7 @@
 | Name | Role | University | Github ID |
 | :------------: | :------------ | :------------ | :------------ |
 | **허윤아** | Design, Frontend | 한림대학교 | [@yoona1110](https://github.com/yoona1110) |  
-| **양화영** | Design | 한림대학교 |  |
+| **양화영** | Design | 한림대학교 |  [@hwayeong](https://github.com/sanchaehwa)    |
 | **이상엽** | Backend | 강원대학교 |  |
 | **조정미** | Frontend | 경상대학교 | [@jung0115](https://github.com/jung0115) |
 
